@@ -1,5 +1,5 @@
 let Harvest = require('../src/Harvest');
-require('dotenv').load();
+require('dotenv').config();
 
 
 const config = {

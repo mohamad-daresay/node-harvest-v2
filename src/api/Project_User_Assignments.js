@@ -4,7 +4,7 @@ let base = require('../mixins/Base2.js'),
 
 function Project_User_Assignments(options) {
     this.name = 'user_assignments';
-    this.baseUri = 'https://api.harvestapp.com/v2/projects/';
+    this.baseUri = 'https://api.harvestapp.com/v2/user_assignments';
     this.options = options;
 }
 
